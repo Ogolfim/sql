@@ -1,0 +1,11 @@
+INSERT INTO provinces VALUES (default, 'Niassa');
+INSERT INTO provinces VALUES (default, 'Nampula');
+INSERT INTO provinces VALUES (default, 'Zambézia');
+INSERT INTO provinces VALUES (default, 'Tete');
+INSERT INTO provinces VALUES (default, 'Manica');
+INSERT INTO provinces VALUES (default, 'Sofala');
+INSERT INTO provinces VALUES (default, 'Inhambane');
+INSERT INTO provinces VALUES (default, 'Gaza');
+INSERT INTO provinces VALUES (default, 'Maputo');
+INSERT INTO provinces VALUES (default, 'Maputo (cidade)');
+INSERT INTO provinces VALUES (default, 'Cabo Delgado');
